@@ -1,4 +1,4 @@
-(https://webartdevelopers.com/blog/wp-content/uploads/2021/01/hello-world.gif)
+![MasterHead](https://webartdevelopers.com/blog/wp-content/uploads/2021/01/hello-world.gif)
 <h1 align="center">Hi 👋, I'm Rafic Kattour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
