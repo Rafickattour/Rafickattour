@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **Web Development**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React,html,css,js**
 
 - ⚡ Fun fact **I have a highly creative brain**
 
