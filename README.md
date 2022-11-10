@@ -1,4 +1,4 @@
-![MasterHead](https://webartdevelopers.com/blog/wp-content/uploads/2021/01/hello-world.gif)
+![MasterHead](https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif)
 <h1 align="center">Hi 👋, I'm Rafic Kattour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **Web Development**
 
-- 💬 Ask me about **React,html,css,js**
+- 💬 Ask me about **react & html & css & js**
 
 - ⚡ Fun fact **I have a highly creative brain**
 
