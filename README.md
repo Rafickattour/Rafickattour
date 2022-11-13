@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react & html & css & js**
 
-- ⚡ Fun fact **I have a highly creative brain**
+- ⚡ Fun fact **I have a highly creative brains**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
